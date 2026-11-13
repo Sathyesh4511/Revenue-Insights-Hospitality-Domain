@@ -1,5 +1,6 @@
 # Revenue-Insights-Hospitality-Domain
 
+Link to Video Presentation - https://lnkd.in/p/gxSybzeQ
 
 ## Problem statement
 
